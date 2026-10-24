@@ -1,6 +1,6 @@
 # Tropospheric NO₂ Mapping, Bangladesh (Jan-May 2022)
 
-![NO2 map of Bangladesh](no2_bangladesh_map.png)
+![NO2 map of Bangladesh](NO2_Bangladesh_Concentration.png)
 
 ## Overview
 Mean tropospheric NO₂ column density across Bangladesh from January to May 2022, mapped from Sentinel-5P TROPOMI data in Google Earth Engine to identify urban-industrial emission hotspots.
